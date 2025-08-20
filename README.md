@@ -5,16 +5,21 @@ modify and run deep learning models.
 
 ## Project Structure
 my_classification_project/
+
 ├── model.py # Model definition (Simple MLP)
+
 ├── train.py # Training & evaluation script
+
 ├── dataset.py # (optional) Dataset utilities
+
 ├── requirements.txt
+
 └── README.md
 
 ## How to Run
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.tx
 
 2. Train the model on MNIST:
     ```bash
