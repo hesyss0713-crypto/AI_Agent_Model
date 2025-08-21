@@ -19,7 +19,7 @@ my_classification_project/
 ## How to Run
 1. Install dependencies:
    ```bash
-   pip install -r requirements.tx
+   pip install -r requirements.txt
 
 2. Train the model on MNIST:
     ```bash
